@@ -6,13 +6,6 @@ msal
 azure-storage-blob
 python-multipart
 itsdangerous
-# fastapi
-# uvicorn
-# gunicorn
-# requests
-# msal
-# python-dotenv
-# azure-storage-blob
-# pandas
-# openpyxl
+pandas
+openpyxl
 
