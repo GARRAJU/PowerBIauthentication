@@ -37,5 +37,3 @@ app.include_router(auto_upload_router)
 @app.get("/")
 def root():
     return {"status": "Backend running"}
-
-

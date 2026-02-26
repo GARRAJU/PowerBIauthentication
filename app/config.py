@@ -17,6 +17,3 @@ POWERBI_SCOPE = [
 ]
 
 POWERBI_API = "https://api.powerbi.com/v1.0/myorg"
-
-
-
